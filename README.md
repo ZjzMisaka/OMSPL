@@ -7,12 +7,8 @@ Copyright (C) 2023 Zhang Junzhi <zjzmisaka@outlook.com>
 Software distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
+You can do anything you want to do with the software, source code or documents
+covered by this license, as long as you comply with the following conditions:
 
         For this license
 0. The above copyright notice and this permission notice shall be included in
