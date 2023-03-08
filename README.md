@@ -18,8 +18,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
         Main restrictions
 0. Any developer who uses code covered by this license should first shout out the contents enclosed in quotes in the appendix.
-0.0 If you feel embarrassed, you can go home and yell secretly.
-0.0.0 If you really don't want to, just shout in your heart.
+0.0. If you feel embarrassed, you can go home and yell secretly.
+0.0.0. If you really don't want to, just shout in your heart.
 
         Appendix:
 1. "緒山まひろ最高！！". [Zhang Junzhi]
