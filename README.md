@@ -15,7 +15,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
         For restrictions
 0. You can only add compliments for anime characters in the appendix. 
-1. If you want to add compliments for anime characters, you need to attach your own name (or nick name).
+1. If you want to add compliments for your favorite anime characters, you need to attach your own name (or nick name).
 2. If the character already exists, you can append your own name (or nick name) to it. 
 
         Main restrictions
