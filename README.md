@@ -35,5 +35,5 @@ so, subject to the following conditions:
 0.0.0. If you really don't want to, just shout in your heart.
 
         Appendix
-1. "緒山まひろ最高！！" [Zhang Junzhi]
+0. "緒山まひろ最高！！！" [Zhang Junzhi]
 ```
