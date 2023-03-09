@@ -14,8 +14,9 @@ covered by this license, as long as you comply with the following conditions:
 0. The above copyright notice and this permission notice shall be included in
    all copies or substantial portions of the Software, but you can modify the
    appendix section.
-1. You cannot delete this license.
-2. You cannot delete or modify existing restrictions.
+1. You can't remove this license unless it bothers you, and if you do, you need
+   to do the "Main restrictions" again before removing it.
+2. You cannot remove or modify existing restrictions.
 
         For restrictions
 0. You can only add compliments for anime characters in the appendix. 
