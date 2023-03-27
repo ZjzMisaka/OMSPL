@@ -14,16 +14,17 @@ covered by this license, as long as you comply with the following conditions:
 0. The above copyright notice and this permission notice shall be included in
    all copies or substantial portions of the Software, but you can modify the
    appendix section.
-1. You can't remove this license unless it bothers you, and if you do, you need
-   to do the "Main restrictions" again before removing it.
+1. You cannot remove this license unless it bothers you, and if you do, you
+   need to do the "Main restrictions" again before removing it.
 2. You cannot remove or modify existing restrictions.
 
         For restrictions
-0. You can only add compliments for anime characters in the appendix. 
+0. If you want modify the appendix section, you can only add compliments for
+   anime characters.
 1. If you want to add compliments for your favorite anime characters, you need
    to attach your own name (or nick name).
 2. If the character already exists, you can append your own name (or nick name)
-   to it. 
+   to it.
 
         Main restrictions
 0. Any developer who uses code covered by this license should first shout out
