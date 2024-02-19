@@ -2,7 +2,7 @@
 OYAMA MAHIRO SAIKOU PUBLIC LICENSE
 Version 1, March 2023
 
-Copyright (C) 2023 Zhang Junzhi <zjzmisaka@outlook.com>
+Copyright (C) 2023 YOUR_NAME <YOUR_EMAIL>
 
 Software distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -34,5 +34,5 @@ covered by this license, as long as you comply with the following conditions:
 0.0.0. If you really don't want to, just recite it inwardly.
 
         Appendix
-0. "緒山まひろ最高！！！" [Zhang Junzhi]
+0. "緒山まひろ最高！！！" [YOUR_NAME]
 ```
